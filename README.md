@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdel mounaim Guezzar</h1>
-<h3 align="center">I,m .NET developer</h3>
+<h3 align="center">.NET developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmounaimguezzer&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmounaimguezzer" /> </p>
 
